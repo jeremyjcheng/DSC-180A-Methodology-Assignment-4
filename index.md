@@ -3,9 +3,9 @@ layout: default
 title: DSC 180A Methodology Assignment 4
 ---
 
-**Name** Jeremy Cheng  
-**UCSD email** jec061@ucsd.edu
-**Section** D21
+**Name** Jeremy Cheng<br />
+**UCSD email** jec061@ucsd.edu<br />
+**Section** D21<br />
 **Mentor** Armin Schwartzman
 
 **What is the most interesting topic covered in your domain this quarter?**  
